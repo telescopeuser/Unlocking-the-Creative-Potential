@@ -25,25 +25,26 @@ Showcase examples of generative artworks, music, stories, etc.
 Introduction to relevant online tools for the workshop:
  - Runway, DALL-E for generating images
  - OpenAI's ChatGPT for narrative
- - NaturalReader, Descript or Google's Text-to-Speech for voiceovers
  - Mubert, Jukebox for music generation
  - Veed.io for video editing, text to speech, subtitles
 
 A quick demo of how to use these tools
 
-## **Group Formation and Task Assignment (5 minutes)**
-
-**Step 1 Form groups**
-
-- Divide students into groups of 4-5. (Individual work is also possible.)
-
-- [Optionally] Each student will be given a role: Narrator (in charge of the storyline), Visual Artist (in charge of photos and visual elements), Sound Engineer (in charge of background music), Voice Talent (in charge of voice-over), and Director (to oversee the entire project and make sure everything aligns).
-
-- Obtain a group number from lecturer.
-
-Refer to this online workbook, of your specifically assigned group number, for collabration and step-by-step guide.
+---
 
 ## **Hands-On AI Generation: Multi-Media Story Telling (30 minutes)**
+
+***Refer to this [Workshop Guide/Workbook](https://github.com/telescopeuser/Unlocking-the-Creative-Potential/blob/main/guide/) for collabration and step-by-step guide.***
+
+---
+
+**Step 1 Form groups (Individual work is also fine.)**
+
+- Divide students into groups of 4-5. 
+
+- Each group defines a group name.
+
+- [Optionally] Each student will be given a role: Narrator (in charge of the storyline), Visual Artist (in charge of photos and visual elements), Sound Engineer (in charge of background music), Voice Talent (in charge of voice-over), and Director (to oversee the entire project and make sure everything aligns).
 
 **Step 2 Define themes for the workshop**
 
@@ -93,9 +94,9 @@ Students vote (excluding their own group) on various categories like Best Story,
 
 - Access to the mentioned online AI tools (some might require free sign-ups)
 
-- A simple online video editing platform/tool
+- A simple online video editing platform/tool: [veed.io](https://www.veed.io/)
 
-- Online voting tool like Mentimeter
+- Online voting tool like [Pigeonhole](https://pigeonholelive.com/), Mentimeter
 
 **Preparation:**
 
