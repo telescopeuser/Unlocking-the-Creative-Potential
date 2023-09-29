@@ -2,17 +2,17 @@
 
 - **Embrace the Future of Generative AI (GAI)**
 
-- **Generative AI Storytelling Adventure**
+- **Generative AI Storytelling Adventure (Hands-on Workshop)**
 
 ![](https://github.com/telescopeuser/Unlocking-the-Creative-Potential/blob/main/media/001.png)
 
-**Objective:** Introduce students to the world of generative AI and enable them to collaborate and produce a short video narrative using AI tools.
+**Objective:** Introduce students to the world of generative AI and enable them to collaborate and produce a short storytelling video using AI tools.
 
 **Duration:** 1 hour
 
 **Outline:**
 
-## **Introduction to Generative AI (10 minutes)**
+## **Introduction to Generative AI (15 minutes)**
 
 Brief overview of AI and Generative AI
 
@@ -23,12 +23,13 @@ Showcase examples of generative artworks, music, stories, etc.
 ## **Getting Started with Tools & Resources (10 minutes)**
 
 Introduction to relevant online tools for the workshop:
- - Runway, DALL-E for generating images
- - OpenAI's ChatGPT for narrative
- - Mubert, Jukebox for music generation
- - Veed.io for video editing, text to speech, subtitles
+ - [Pallyy](https://pallyy.com/tools/image-caption-generator) for captioning images
+ - [Runway](https://app.runwayml.com/) or [DALL-E](https://labs.openai.com/) for generating images/videos
+ - [ChatGPT](https://chat.openai.com/) for drafting narrative/storyline
+ - [Mubert](https://mubert.com/) or [Jukebox](https://openai.com/research/jukebox) for music generation
+ - [Veed.io](https://www.veed.io/) for video editing, text to speech, subtitles
 
-A quick demo of how to use these tools
+A quick demo of how to use these tools, and an [AI co-created video](https://github.com/telescopeuser/Unlocking-the-Creative-Potential/tree/main/demo/Step%208%20Use%20video%20editing%20tool%20to%20integrate%20all%20media%20resources).
 
 ---
 
@@ -82,7 +83,7 @@ A quick demo of how to use these tools
 
 Each group presents their short video.
 
-Students vote (excluding their own group) on various categories like Best Story, Best Visuals, Best Sound, etc. (Use tools like PigeonHole, Mentimeter for live voting)
+[Optional] Students vote (excluding their own group) on various categories like Best Story, Best Visuals, Best Sound, etc. (Use tools like PigeonHole, Mentimeter for live voting)
 
 ---
 
@@ -94,7 +95,7 @@ Students vote (excluding their own group) on various categories like Best Story,
 
 - Access to the mentioned online AI tools (some might require free sign-ups)
 
-- A simple online video editing platform/tool: [veed.io](https://www.veed.io/)
+- A simple online video editing platform/tool: [Veed.io](https://www.veed.io/)
 
 - Online voting tool like [Pigeonhole](https://pigeonholelive.com/), Mentimeter
 
