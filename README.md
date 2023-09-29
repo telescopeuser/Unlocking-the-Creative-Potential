@@ -1,3 +1,5 @@
+[Github Source:](https://github.com/telescopeuser/Unlocking-the-Creative-Potential) https://github.com/telescopeuser/Unlocking-the-Creative-Potential
+
 # Unlocking the Creative Potential
 
 - **Embrace the Future of Generative AI (GAI)**
