@@ -35,7 +35,7 @@ A quick demo of how to use these tools, and an [AI co-created video](https://git
 
 ---
 
-## **Hands-On AI Generation: Multi-Media Story Telling (30 minutes)**
+## **Hands-On AI Generation: Multi-Media Storytelling (30 minutes)**
 
 ***Refer to this [Workshop Guide/Workbook](https://github.com/telescopeuser/Unlocking-the-Creative-Potential/blob/main/guide/) for collabration and step-by-step guide.***
 
